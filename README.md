@@ -8,7 +8,7 @@ Usamos o **[Microsoft Copilot](https://copilot.microsoft.com/)** para gerar uma 
 
 ### Input
 
-*** Crie uma imagem de um guerreiro medieval lutando contra um dragão negro no mundo de D&D***
+***Crie uma imagem de um guerreiro medieval lutando contra um dragão negro no mundo de D&D***
 
 ![captura de tela do prompt 1 Copilot](https://github.com/Penichezito/IA-Generativa-Azure-DIO/blob/main/output/prompt-1-copilot.jpg)
 
